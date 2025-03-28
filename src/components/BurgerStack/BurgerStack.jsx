@@ -1,7 +1,4 @@
 
-
-
-
 const BurgerStack = (props) => {
   return (
     <div>
